@@ -44,8 +44,8 @@ Cấu hình huấn luyện:
 Project_2/
 │
 ├── train.py
-├── detect_image.py
-├── detect_video.py
+├── inference_images.py
+├── inference_video.py
 ├── data.yaml
 │
 ├── train/
@@ -220,8 +220,8 @@ Training configuration:
 Project_2/
 │
 ├── train.py
-├── detect_image.py
-├── detect_video.py
+├── inference_images.py
+├── inference_video.py
 ├── data.yaml
 │
 ├── train/
