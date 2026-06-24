@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Weights
+*.pt
+*.pth
+*.onnx
+
+# YOLO Training Outputs
+runs/
+
+# Dataset
+train/
+valid/
+test/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
